@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ![hi](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AEmoji_u1f44b.svg&psig=AOvVaw3vDQZwnaHWTV5bbI8dp6gg&ust=1678885859912000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjnla2_2_0CFQAAAAAdAAAAABAE)
 
 <!--
 **Kiariemuiruri/Kiariemuiruri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
