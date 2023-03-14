@@ -1,4 +1,4 @@
-### Hi there ![hi](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Emoji_u1f44b.svg/2048px-Emoji_u1f44b.svg.png)
+### Hi there :wave:
 
 <!--
 **Kiariemuiruri/Kiariemuiruri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
