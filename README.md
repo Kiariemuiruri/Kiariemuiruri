@@ -1,4 +1,6 @@
-### Hi there :wave:
+### Hi there :wave:m I'm Kiarie Muiruri
+
+### A Data Dective with a penchant for crunching and believes in Data for Good.
 
 <!--
 **Kiariemuiruri/Kiariemuiruri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
