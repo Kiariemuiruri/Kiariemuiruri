@@ -1,4 +1,4 @@
-### Hi there :wave:m I'm Kiarie Muiruri
+## Hi there :wave:m I'm Kiarie Muiruri
 
 ### A Data Dective with a penchant for crunching and believes in Data for Good.
 
