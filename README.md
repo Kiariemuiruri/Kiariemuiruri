@@ -2,7 +2,7 @@
 
 ## Hi there :wave: I'm Kiarie Muiruri
 
-### A Data Dective with a penchant for crunching and believes in Data for Good.
+### A Data Detective with a penchant for crunching and believes in Data for Good.
 
 * :telescope:Learn **Python Libraries: pandas, numpy, matplotlib, seaborn, BeautifulSoup** and more from my python libraries tuitorials
 
