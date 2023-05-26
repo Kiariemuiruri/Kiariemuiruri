@@ -1,6 +1,6 @@
-![me](https://github.com/Kiariemuiruri/Kiariemuiruri/blob/main/20230314_164641_0000.png)
+![me](https://www.uakron.edu/statistics/images/data-science-banner.jpg?language_id=1)
 
-## Hi there :wave: I'm Kiarie Muiruri
+## Hi there :wave: I'm Kiarie 
 
 ### A Data Detective with a penchant for crunching and believes in Data for Good.
 
